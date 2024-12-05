@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+ERALIVE objects:
+    Objects with source in library ERASRC: 14
+
+Detail report:
+ERALIVE objects:
+    Objects with source in library ERASRC:
+        *MODULE RPGLE   ERALIVE/CUSMAIN                     
+        *FILE DSPF      ERALIVE/MAINMENU                    
+        *MODULE RPGLE   ERALIVE/CUSMNT                      
+        *FILE LF        ERALIVE/CUSMSTL1                    
+        *FILE PF        ERALIVE/CUSMST                      
+        *FILE DSPF      ERALIVE/MNTMENU                     
+        *MODULE RPGLE   ERALIVE/SCHNAM                      
+        *FILE LF        ERALIVE/CUSMSTL3                    
+        *FILE DSPF      ERALIVE/SCHNAMD                     
+        *MODULE RPGLE   ERALIVE/SCHZIP                      
+        *FILE LF        ERALIVE/CUSMSTL2                    
+        *FILE DSPF      ERALIVE/SCHZIPD                     
+        *PGM RPGLE      ERALIVE/SCHNAMRPG                   
+        *CMD            ERALIVE/CUSTMAINT                   
+End of Source Location Report.

@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+ERALIVE objects:
+    Objects with requisites in library ERALIVE: 7
+    Objects with requisites in library ERALIVE: 7
+    Objects with requisites in library ERASRC: 13
+
+Detail report:
+ERALIVE objects:
+    Objects with requisites in library ERALIVE:
+        *FILE LF        ERALIVE/CUSMSTL1                    
+        *FILE LF        ERALIVE/CUSMSTL2                    
+        *FILE LF        ERALIVE/CUSMSTL3                    
+        *FILE DSPF      ERALIVE/MNTMENU                     
+        *FILE DSPF      ERALIVE/SCHNAMD                     
+        *FILE DSPF      ERALIVE/SCHZIPD                     
+        *PGM RPGLE      ERALIVE/CUSTMAINT                   
+    Objects with requisites in library ERASRC:
+        *CMD            ERALIVE/CUSTMAINT                   
+        *FILE PF        ERALIVE/CUSMST                      
+        *FILE LF        ERALIVE/CUSMSTL1                    
+        *FILE LF        ERALIVE/CUSMSTL2                    
+        *FILE LF        ERALIVE/CUSMSTL3                    
+        *FILE DSPF      ERALIVE/MAINMENU                    
+        *FILE DSPF      ERALIVE/MNTMENU                     
+        *FILE DSPF      ERALIVE/SCHNAMD                     
+        *FILE DSPF      ERALIVE/SCHZIPD                     
+        *MODULE RPGLE   ERALIVE/CUSMAIN                     
+        *MODULE RPGLE   ERALIVE/CUSMNT                      
+        *MODULE RPGLE   ERALIVE/SCHNAM                      
+        *MODULE RPGLE   ERALIVE/SCHZIP                      
+End of Requisite Location Report.
